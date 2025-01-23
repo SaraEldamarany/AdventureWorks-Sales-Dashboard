@@ -13,3 +13,5 @@ Dynamic Sales Dashboard using Excel to analyze monthly sales trends from the Adv
   - Analyze sales distribution.
 
 With interactive slicers for categories and territories, the dashboard allows seamless drill-down analysis, helping businesses track performance and identify trends effectively.
+
+![Sales Analysis](https://github.com/SaraEldamarany/AdventureWorks-Sales-Dashboard/blob/main/Dashboard.jpeg)
